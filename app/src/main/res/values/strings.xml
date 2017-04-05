@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Personas</string>
+    <string name="Titulo">Registro</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="edad">Edad</string>
+    <string name="leer">Leer</string>
+    <string name="comer">Comer</string>
+    <string name="jugar">Jugar</string>
+    <string name="borrar">Borrar</string>
+    <string name="registrar">Registrar</string>
+    <string name="numero">No.</string>
+    <string name="hobbies">Pasatiempos</string>
 </resources>
